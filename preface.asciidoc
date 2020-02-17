@@ -174,17 +174,23 @@ Many contributors offered comments, corrections, and additions to the book as it
 
 Following is an alphabetically sorted list of all the GitHub contributors, including their GitHub IDs in parentheses:
 
-* Alpha Q. Smith (@alpha_github_id)
-* Darius E. Parvin (@DariusParvin)
-* Doru Muntean (@chriton)
-* Eduardo Lima III (@elima-iii)
-* Emilio Norrmann (@enorrmann)
-* Hatim Boufnichel (@boufni95)
+* Bolatov, Umar (@bolatovumar)
+* Boufnichel, Hatim (@boufni95)
+* Bovi, Simone (@SimoneBovi)
 * Imran Lorgat (@ImranLorgat)
-* Ricardo Marques (@RicardoM17)
-* Simone Bovi (@SimoneBovi)
-* Omega X. Last (@omega_github_id)
-* Umar Bolatov (@bolatovumar)
+* Last, Omega X. (@omega_github_id)
+* Lima III, Eduardo (@elima-iii)
+* Marques, Ricardo (@RicardoM17)
+* Muntean, Doru (@chriton)
+* Norrmann, Emilio (@enorrmann)
+* Parvin, Darius E. (@DariusParvin)
+* Smith, Alpha Q. (@alpha_github_id)
+
+
+
+
+
+
 
 Without the help offered by everyone listed above, this book would not have been possible. Your contributions demonstrate the power of open source and open culture, and we are eternally grateful for your help.
 
